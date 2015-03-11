@@ -1,0 +1,26 @@
+Script started on 2015年03月11日 (週三) 18時48分28秒
+]0;F74031190@2015cpp: ~F74031190@2015cpp:~$ whoami; pwd
+F74031190
+/home/F74031190
+]0;F74031190@2015cpp: ~F74031190@2015cpp:~$ git config -l
+user.name=wangchangchun
+user.email=j432985029@gmail.com
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.lab1.url=https://github.com/wangchangchun/lab1.git
+remote.lab1.fetch=+refs/heads/*:refs/remotes/lab1/*
+remote.origin.url=https://github.com/wangchangchun/lab1.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+remote.lab.url=https://github.com/wangchangchun/lab1.git
+remote.lab.fetch=+refs/heads/*:refs/remotes/lab/*
+]0;F74031190@2015cpp: ~F74031190@2015cpp:~$ git config -l[2Pwhoami; pwdgit clone https://github.com/wangchangcchun/lab1.git[A]0;F74031190@2015cpp: ~F74031190@2015cpp:~$ cd lab1[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kcd lab1git clone https://github.com/wangchangcchun/lab1.git[A]0;F74031190@2015cpp: ~F74031190@2015cpp:~$ cd lab1[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit clone https://github.com/wangchangcchun/lab1.git[A]0;F74031190@2015cpp: ~F74031190@2015cpp:~$ whoami; pwd[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit config -l[Kgit clone https://github.com/wangchang chun/lab1.git[K[A]0;F74031190@2015cpp: ~F74031190@2015cpp:~$ git clone https://github.com/wangchangchun/lab1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+]0;F74031190@2015cpp: ~F74031190@2015cpp:~$ exit
+
+Script done on 2015年03月11日 (週三) 18時50分51秒
